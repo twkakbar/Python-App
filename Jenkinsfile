@@ -1,7 +1,7 @@
 def secret = 'github'
 def server = 'twk@52.26.187.97'
 def directory = 'Python-App'
-def branch = 'main'
+def branch = 'master'
 
 pipeline{
     agent any
