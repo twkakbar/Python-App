@@ -13,6 +13,6 @@
     
     "env": {
                 "UBER_CLIENT_ID": "CQXrtZ5QPNuw9QsJywqI0R-sAQbIKgAy",
-                "UBER_CLIENT_SECRET": "tYJQzKeRQtD94BXzUrFo-7UrUsHANO7gUjI",
-            },
+                "UBER_CLIENT_SECRET": "tYJQzKeRQtD94BXzUrFo-7UrUsHANO7gUjI"
+           }
 }
